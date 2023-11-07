@@ -11,6 +11,8 @@ public class PrintNumWhile {
             counter++;
  }
  System.out.println();
+ sc.close();
+
     }
 
 }

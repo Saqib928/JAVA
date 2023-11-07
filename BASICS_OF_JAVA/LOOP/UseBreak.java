@@ -13,6 +13,8 @@ public class UseBreak {
             }
     }while(true);
 
+
+    sc.close();
     }
     
 }

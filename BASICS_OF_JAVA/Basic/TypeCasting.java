@@ -24,6 +24,8 @@ public class TypeCasting {
         byte x = 10;
         x = (byte)(x*2);
         System.out.println(x);
+        sc.close();
+
 
 
 

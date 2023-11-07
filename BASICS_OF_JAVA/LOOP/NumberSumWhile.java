@@ -12,5 +12,7 @@ public class NumberSumWhile {
             i++;
         }
         System.out.println("Sum of number till " + n +" is "+ sum);
+        sc.close();
+
     }
 }

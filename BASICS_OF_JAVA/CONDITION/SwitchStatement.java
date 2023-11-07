@@ -20,5 +20,7 @@ public class SwitchStatement {
             break;
 
         }
+        sc.close();
+
     }
 }
