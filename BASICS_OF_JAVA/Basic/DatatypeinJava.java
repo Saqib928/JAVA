@@ -16,7 +16,7 @@ public class DatatypeinJava {
         // non-primitive Data type
         // String
         // Array
-        // Object 
+        // Object //saqib
         // Interface
 
 
