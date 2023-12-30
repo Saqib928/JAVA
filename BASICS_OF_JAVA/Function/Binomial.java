@@ -1,6 +1,6 @@
 package BASICS_OF_JAVA.Function;
 import java.util.Scanner;
-public class Function {
+public class Binomial {
 
   public static int facto(int n) {
     int f = 1;
