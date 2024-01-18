@@ -41,7 +41,7 @@ Right-associative: = += -= *= /= %= &= ^= |= <<= >>= >>>=
          */int a = 5;
          int b = 7;
          int c = 12;
-         int factor = b*b-(4*a*c)/(2*a);
+         int factor = (b*b-4*a*c)/(2*a);
          System.out.println("the factor for given expression is : "+ factor);
     }
 }
