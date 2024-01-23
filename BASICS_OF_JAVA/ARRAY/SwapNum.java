@@ -12,6 +12,7 @@ public class SwapNum {
             last--;
         }
     }
+    /* */
     public static void main (String args[]){
         int number [] ={2,4,5,1,4,2,6,3,2};
         swap(number);
